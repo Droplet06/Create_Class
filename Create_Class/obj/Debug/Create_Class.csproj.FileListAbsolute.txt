@@ -1,0 +1,8 @@
+C:\Users\Vince\Downloads\Create_Class\Create_Class\Create_Class\bin\Debug\Create_Class.exe.config
+C:\Users\Vince\Downloads\Create_Class\Create_Class\Create_Class\bin\Debug\Create_Class.exe
+C:\Users\Vince\Downloads\Create_Class\Create_Class\Create_Class\bin\Debug\Create_Class.pdb
+C:\Users\Vince\Downloads\Create_Class\Create_Class\Create_Class\obj\Debug\Create_Class.csproj.AssemblyReference.cache
+C:\Users\Vince\Downloads\Create_Class\Create_Class\Create_Class\obj\Debug\Create_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vince\Downloads\Create_Class\Create_Class\Create_Class\obj\Debug\Create_Class.csproj.CoreCompileInputs.cache
+C:\Users\Vince\Downloads\Create_Class\Create_Class\Create_Class\obj\Debug\Create_Class.exe
+C:\Users\Vince\Downloads\Create_Class\Create_Class\Create_Class\obj\Debug\Create_Class.pdb
